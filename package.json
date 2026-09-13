@@ -11,14 +11,14 @@
     "browser",
     "zerobot"
   ],
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zero-bot.net/request.git"
+    "url": "https://github.com/ZeroBot-net/request.git"
   },
   "bugs": {
-    "url": "http://github.com/zero-bot.net/request/issues"
+    "url": "http://github.com/ZeroBot-net/request/issues"
   },
   "license": "Apache-2.0",
   "engines": {

@@ -3,7 +3,7 @@
 
 [![npm package](https://nodei.co/npm/@zero-bot.net/request.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@zero-bot.net/request/)
 
-**This is a fork of [`request`](https://github.com/request/request) for use in [ZeroBot](https://github.com/zero-bot.net).**
+**This is a fork of [`request`](https://github.com/request/request) for use in [ZeroBot](https://github.com/ZeroBot-net).**
 
 ## Super simple to use
 

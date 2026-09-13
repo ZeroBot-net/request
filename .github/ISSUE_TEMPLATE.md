@@ -6,9 +6,9 @@ Please search open/closed issues before submitting since someone might have aske
 If you have a support request or question please submit them to one of this resources:
 
 * Stack Overflow: http://stackoverflow.com/questions/tagged/request+node.js using the tags `node.js` & `request`
-* Gitter community: https://gitter.im/zero-bot.net/request?utm_source=newissue
+* Gitter community: https://gitter.im/ZeroBot-net/request?utm_source=newissue
 * Also have a look at the Readme for more information on how to get support:
-  https://github.com/zero-bot.net/request/blob/master/README.md
+  https://github.com/ZeroBot-net/request/blob/master/README.md
 
 Issues on GitHub are only related to problems of request itself and we cannot answer
 support questions here.
