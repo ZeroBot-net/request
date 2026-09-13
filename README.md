@@ -1,16 +1,16 @@
 
-# @cypress/request - Simplified HTTP client
+# @zero-bot.net/request - Simplified HTTP client
 
-[![npm package](https://nodei.co/npm/@cypress/request.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@cypress/request/)
+[![npm package](https://nodei.co/npm/@zero-bot.net/request.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@zero-bot.net/request/)
 
-**This is a fork of [`request`](https://github.com/request/request) for use in [Cypress](https://github.com/cypress-io/cypress).**
+**This is a fork of [`request`](https://github.com/request/request) for use in [ZeroBot](https://github.com/zero-bot.net).**
 
 ## Super simple to use
 
 Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 
 ```js
-const request = require('@cypress/request');
+const request = require('@zero-bot.net/request');
 request('http://www.google.com', function (error, response, body) {
   console.error('error:', error); // Print the error if one occurred
   console.log('statusCode:', response && response.statusCode); // Print the response status code if a response was received

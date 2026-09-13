@@ -1,6 +1,6 @@
 {
-  "name": "@cypress/request",
-  "description": "Cypress's fork of a simplified HTTP request client.",
+  "name": "@zero-bot.net/request",
+  "description": "ZeroBot's fork of a simplified HTTP request client.",
   "keywords": [
     "http",
     "simple",
@@ -11,10 +11,10 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cypress-io/request.git"
+    "url": "https://github.com/zero-bot.net/request.git"
   },
   "bugs": {
-    "url": "http://github.com/cypress-io/request/issues"
+    "url": "http://github.com/zero-bot.net/request/issues"
   },
   "license": "Apache-2.0",
   "engines": {
@@ -53,6 +53,7 @@
     "lint": "standard"
   },
   "devDependencies": {
+    "axios": "^1.20.0",
     "bluebird": "^3.2.1",
     "browserify": "^13.0.1",
     "browserify-istanbul": "^2.0.0",
@@ -60,6 +61,7 @@
     "codecov": "^3.0.4",
     "coveralls": "^3.0.2",
     "function-bind": "^1.0.2",
+    "got": "^16.0.0",
     "karma": "^3.0.0",
     "karma-browserify": "^5.0.1",
     "karma-cli": "^2.0.0",
@@ -72,7 +74,8 @@
     "server-destroy": "^1.0.1",
     "standard": "^9.0.0",
     "tap": "^15.1.5",
-    "tape": "^4.6.0"
+    "tape": "^4.6.0",
+    "undici": "^8.10.2"
   },
   "greenkeeper": {
     "ignore": [
