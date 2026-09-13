@@ -5,6 +5,7 @@ npm-debug.log
 package-lock.json
 .nyc_output
 .vscode
+benchmark/
 
 # emacs
 *~
