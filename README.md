@@ -5,6 +5,8 @@
 
 **This is a fork of [`request`](https://github.com/request/request) for use in [ZeroBot](https://github.com/ZeroBot-net).**
 
+Install with `npm i @zero-bot.net/request`. Part of [ZeroBot.net](https://zero-bot.net), a bot hosting and bot-building platform; see also [`@zero-bot.net/tg-bot-api`](https://github.com/ZeroBot-net/tg-bot-api), a Telegram Bot API library for Node.js.
+
 ## Super simple to use
 
 Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
